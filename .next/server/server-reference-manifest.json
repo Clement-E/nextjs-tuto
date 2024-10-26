@@ -1,30 +1,36 @@
 {
   "node": {
-    "1daf92903c9850219f3a9d0f51aa064dc6205391": {
+    "2412e080115221535a6a0a63218970c071f09f09": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CCl%C3%A9mentEVEILLARD%5C%5CDesktop%5C%5CProjets%20perso%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc"
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
       }
     },
-    "2b035fb40ecfff5f3483bbdf87dec47fa1d91ce6": {
+    "57917cf3903863d822a175c7934c7af311d66d20": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CCl%C3%A9mentEVEILLARD%5C%5CDesktop%5C%5CProjets%20perso%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc"
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
       }
     },
-    "696015d2361a3b7cbb6a38a6064de709faffde32": {
+    "5daf81e4bd120c087cf37015087a90fe01c51efe": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-20240704/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CCl%C3%A9mentEVEILLARD%5C%5CDesktop%5C%5CProjets%20perso%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0-canary.56_react-dom@19.0.0-rc-f38c22b244-20240704_react@19.0.0-rc-f38c22b244-2024_ma5zmqaxqio5fndyl5qy52jyg4/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSTOCKAGE%5C%5CWORK%5C%5CPOCs%5C%5Cnextjs-tuto%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc"
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "GMtRPuEnk67D9vNP8/E/ozMWNPqzBRKWEzyWMyjsdAw="
+  "encryptionKey": "sZlSSVPHhZVI767An1VLK1tcGVQx4YQpQjo/Y9YYI8I="
 }
